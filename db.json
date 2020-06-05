@@ -28,6 +28,20 @@
                  "matchValue" :"76.22% " ,
 	    	"alert" :"Pause Recording",
 		"alertDescription" : "Recording has been paused"
+  },
+	   {
+  "callType" : "Incoming" , 
+  "callId" : "6807771887881486400" , 
+  "agentPhoneExtension"  :"5119" ,
+  "agentName" : "Engaga User2",
+  "agentId" : 4,
+  "callingParty" : "51610" ,
+  "calledParty" : "5119" ,
+                 "stream" : "Agent" , 
+                 "eventPhrase" :"pause recording" , 
+                 "matchValue" :"76.22% " ,
+	    	"alert" :"Pause Recording",
+		"alertDescription" : "Recording has been paused"
   }
   ]
 ,
