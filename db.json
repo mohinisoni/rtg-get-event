@@ -1,4 +1,6 @@
-[{
+
+{
+  "posts": [{
   "callType" : "Outgoing" , 
   "callId" : "6807771887881486400" , 
   "agentPhoneExtension"  :"5118" ,
@@ -14,3 +16,8 @@
                          }
 	}
   ]
+,
+  "profile": {
+    "name": "typicode"
+  }
+}
