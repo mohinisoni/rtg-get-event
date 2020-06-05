@@ -1,0 +1,16 @@
+[{
+  "callType" : "Outgoing" , 
+  "callId" : "6807771887881486400" , 
+  "agentPhoneExtension"  :"5118" ,
+  "agentName" : "Engaga User1",
+  "agentId" : 1,
+  "callingParty" : "5118" ,
+  "calledParty" : "51610" ,
+ 
+  "notificationResponse" : {
+                 "stream" : "Agent" , 
+                 "eventPhrase" :"Fraud" , 
+                 "matchValue" :"61.23% " 
+                         }
+	}
+  ]
