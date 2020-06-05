@@ -14,7 +14,12 @@
                  "eventPhrase" :"Fraud" , 
                  "matchValue" :"61.23% " 
                          }
-	}
+	},
+"notification" : {
+	    "alert" :"Alert1"
+, "alertDescription" : "Alert description"
+	    }
+	    }
   ]
 ,
   "profile": {
