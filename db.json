@@ -13,8 +13,8 @@
                  "stream" : "Agent" , 
                  "eventPhrase" :"Fraud" , 
                  "matchValue" :"61.23% " ,
-	    	"alert" :"Alert1",
-		"alertDescription" : "Alert description"
+	    	"alert" :"CCPA",
+		"alertDescription" : " •\tFirst, I must want to assure you that we take your privacy seriously and Cox has long adopted privacy best practices\n•\tWe will comply with the California Privacy Act and are actively working to meet the requirements of the Act by January 2020\n•\tWe understand that you trust us to respect your privacy and to protect the information you provide us.  We’ve taken that trust seriously even without government involvement';"
 	    }
   }
   ]
