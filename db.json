@@ -12,7 +12,7 @@
   "notificationResponse" : {
                  "stream" : "Agent" , 
                  "eventPhrase" :"Fraud" , 
-                 "matchValue" :"61.23% " 
+                 "matchValue" :"61.23% " ,
 	    	"alert" :"Alert1",
 		"alertDescription" : "Alert description"
 	    }
